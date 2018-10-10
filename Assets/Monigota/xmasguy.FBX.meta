@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: f2f47d99db5d86544a83298762f2c3cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLCollarbone
+    100006: Base HumanLForearm
+    100008: Base HumanLIKTarget
+    100010: Base HumanLLeg1
+    100012: Base HumanLLeg2
+    100014: Base HumanLLegPlatform
+    100016: Base HumanLPalm
+    100018: Base HumanLUpperarm
+    100020: Base HumanNeck
+    100022: Base HumanPelvis
+    100024: Base HumanRCollarbone
+    100026: Base HumanRForearm
+    100028: Base HumanRibcage
+    100030: Base HumanRIKTarget
+    100032: Base HumanRLeg1
+    100034: Base HumanRLeg2
+    100036: Base HumanRLegPlatform
+    100038: Base HumanRPalm
+    100040: Base HumanRUpperarm
+    100042: Base HumanSpine1
+    100044: Base HumanSpine2
+    100046: Base HumanSpine3
+    100048: Box001
+    100050: Box002
+    100052: Box003
+    100054: cabelo
+    100056: Line002
+    100058: rosto
+    100060: Sphere001
+    100062: //RootNode
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLCollarbone
+    400006: Base HumanLForearm
+    400008: Base HumanLIKTarget
+    400010: Base HumanLLeg1
+    400012: Base HumanLLeg2
+    400014: Base HumanLLegPlatform
+    400016: Base HumanLPalm
+    400018: Base HumanLUpperarm
+    400020: Base HumanNeck
+    400022: Base HumanPelvis
+    400024: Base HumanRCollarbone
+    400026: Base HumanRForearm
+    400028: Base HumanRibcage
+    400030: Base HumanRIKTarget
+    400032: Base HumanRLeg1
+    400034: Base HumanRLeg2
+    400036: Base HumanRLegPlatform
+    400038: Base HumanRPalm
+    400040: Base HumanRUpperarm
+    400042: Base HumanSpine1
+    400044: Base HumanSpine2
+    400046: Base HumanSpine3
+    400048: Box001
+    400050: Box002
+    400052: Box003
+    400054: cabelo
+    400056: Line002
+    400058: rosto
+    400060: Sphere001
+    400062: //RootNode
+    2100000: body
+    2100002: luva
+    2100004: candy
+    2100006: face
+    2100008: hat
+    2300000: Box002
+    2300002: Box003
+    2300004: cabelo
+    2300006: Line002
+    2300008: rosto
+    2300010: Sphere001
+    3300000: Box002
+    3300002: Box003
+    3300004: cabelo
+    3300006: Line002
+    3300008: rosto
+    3300010: Sphere001
+    4300000: Box001
+    4300002: Box002
+    4300004: Line002
+    4300006: Box003
+    4300008: rosto
+    4300010: Sphere001
+    4300012: cabelo
+    7400000: Andar
+    7400002: Saludo
+    7400004: Vuelta
+    7400006: Despedida
+    9500000: //RootNode
+    13700000: Box001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 23fd7cee2387c534db34de9132fb8cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy
+    second: {fileID: 2100000, guid: 38521d7a24cad2e41a3699a6836af79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: 4ca6484cc289ae34d85af8c2c34dab7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hat
+    second: {fileID: 2100000, guid: 219d7aacca4f6734b97819ab5adec88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luva
+    second: {fileID: 2100000, guid: 53053779ef435ed4a9d39d6a2358a7cb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Andar
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Saludo
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Vuelta
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Despedida
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
